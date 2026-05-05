@@ -3,7 +3,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+
+# Ignore large stuff
 output/
+dataset/
 *.pkl
 *.h5
 *.pt
